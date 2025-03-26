@@ -6,7 +6,7 @@
 
 <p>
 
-Eu sou desenvolvedor **Back End**,
+Eu sou desenvolvedor **Back End**.
 
 </p>
 <hr>
