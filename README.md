@@ -22,9 +22,7 @@ Eu sou desenvolvedor **Back End**.
   <img align="center" alt="teck-Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" alt="teck-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="teck-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  
   <hr>
-  <img align="center" alt="teck-PostgreSQL" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=whit">
   <img align="center" alt="teck-PostgreSQL" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="teck-PostgreSQL" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   
