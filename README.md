@@ -1,5 +1,3 @@
-![Tharlesdev's Stats](https://github-readme-stats.vercel.app/api?username=Tharlesdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ### 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Tharles_Freitas&color=f8efd4&style=for-the-badge&logo=GitHub">
