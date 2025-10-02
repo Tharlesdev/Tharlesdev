@@ -7,9 +7,6 @@
 Eu sou desenvolvedor **Back End**.
 
 </p>
-<p>
-  https://www.dio.me/users/tharles291
-</p>
 <hr>
 </div>
   <div style="display: inline_block"><br>
